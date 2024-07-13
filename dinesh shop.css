@@ -1,16 +1,3 @@
-/* std library CSS (commonly used) created by SHanker on 21-12-2022.
-Index (use them to search for the mixin [ctrl+F]):
-> font_family()
-> font_style($size,$weight)
-> all
-> flex($direction,$align, $justify)
-> black_back($alpha)
-> back-img($url,$size)
-> dark-theme($alpha)
-> scrollbar($width,$background-color,$thumb,$rad)
-> footer_type1
-> add_page
-*/
 * {
   margin: 0;
   padding: 0;
